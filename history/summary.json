@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 268,
-    "timeDay": 268,
-    "timeWeek": 268,
-    "timeMonth": 268,
-    "timeYear": 268,
+    "time": 269,
+    "timeDay": 269,
+    "timeWeek": 269,
+    "timeMonth": 269,
+    "timeYear": 269,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 366,
-    "timeDay": 366,
-    "timeWeek": 366,
-    "timeMonth": 366,
-    "timeYear": 366,
+    "time": 357,
+    "timeDay": 357,
+    "timeWeek": 357,
+    "timeMonth": 357,
+    "timeYear": 357,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 833,
-    "timeDay": 833,
-    "timeWeek": 833,
-    "timeMonth": 833,
-    "timeYear": 833,
+    "time": 817,
+    "timeDay": 817,
+    "timeWeek": 817,
+    "timeMonth": 817,
+    "timeYear": 817,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 332,
-    "timeDay": 332,
-    "timeWeek": 332,
-    "timeMonth": 332,
-    "timeYear": 332,
+    "time": 305,
+    "timeDay": 305,
+    "timeWeek": 305,
+    "timeMonth": 305,
+    "timeYear": 305,
     "dailyMinutesDown": {}
   },
   {
@@ -82,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 831,
-    "timeDay": 831,
-    "timeWeek": 831,
-    "timeMonth": 831,
-    "timeYear": 831,
+    "time": 916,
+    "timeDay": 916,
+    "timeWeek": 916,
+    "timeMonth": 916,
+    "timeYear": 916,
     "dailyMinutesDown": {}
   },
   {
@@ -106,7 +106,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-04-20": 156
+      "2021-04-20": 158
     }
   },
   {
@@ -120,11 +120,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 182,
-    "timeDay": 182,
-    "timeWeek": 182,
-    "timeMonth": 182,
-    "timeYear": 182,
+    "time": 185,
+    "timeDay": 185,
+    "timeWeek": 185,
+    "timeMonth": 185,
+    "timeYear": 185,
     "dailyMinutesDown": {}
   },
   {
@@ -138,11 +138,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 614,
-    "timeDay": 614,
-    "timeWeek": 614,
-    "timeMonth": 614,
-    "timeYear": 614,
+    "time": 599,
+    "timeDay": 599,
+    "timeWeek": 599,
+    "timeMonth": 599,
+    "timeYear": 599,
     "dailyMinutesDown": {}
   },
   {
@@ -156,11 +156,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1032,
-    "timeDay": 1032,
-    "timeWeek": 1032,
-    "timeMonth": 1032,
-    "timeYear": 1032,
+    "time": 995,
+    "timeDay": 995,
+    "timeWeek": 995,
+    "timeMonth": 995,
+    "timeYear": 995,
     "dailyMinutesDown": {}
   },
   {
@@ -174,11 +174,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1364,
-    "timeDay": 1364,
-    "timeWeek": 1364,
-    "timeMonth": 1364,
-    "timeYear": 1364,
+    "time": 1315,
+    "timeDay": 1315,
+    "timeWeek": 1315,
+    "timeMonth": 1315,
+    "timeYear": 1315,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "JEPMS Armenia",
+    "url": "https://procesos.ramajudicial.gov.co/jepms/armeniajepms/conectar.asp",
+    "icon": "https://favicons.githubusercontent.com/procesos.ramajudicial.gov.co",
+    "slug": "jepms-armenia",
+    "status": "up",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 636,
+    "timeDay": 636,
+    "timeWeek": 636,
+    "timeMonth": 636,
+    "timeYear": 636,
+    "dailyMinutesDown": {
+      "2021-04-20": 157
+    }
   }
 ]
