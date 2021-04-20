@@ -1,31 +1,135 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: DArchemist # Your GitHub username
+repo: Monitor-de-fuentes # Your GitHub repository name
 
+# Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-
+  - name: Tusdatos.co
+    url: https://www.tusdatos.co/
+  - name: Tusdatos Dashboard
+    url: https://dash-board.tusdatos.co/
+  - name: Policía
+    url: https://antecedentes.policia.gov.co:7005/WebJudicial/antecedentes.xhtml
+  - name: Procuraduría
+    url: https://apps.procuraduria.gov.co/webcert/inicio.aspx?tpo=1
+  - name: Contraloría
+    url: https://www.contraloria.gov.co/control-fiscal/responsabilidad-fiscal/certificado-de-antecedentes-fiscales
+  - name: RUAF 
+    url: https://ruaf.sispro.gov.co/TerminosCondiciones.aspx
+  - name: RUES
+    url: https://www.rues.org.co/
+  - name: RUNT
+    url: https://www.runt.com.co/consultaCiudadana/#/consultaPersona
+  - name: PEP
+    url: https://apps.migracioncolombia.gov.co/consultarVEN/
+  - name: DIAN RUT
+    url: https://muisca.dian.gov.co/WebArquitectura/DefLoginOld.faces
+  - name: Rama Judicial
+    url: https://consultaprocesos.ramajudicial.gov.co/Procesos/NombreRazonSocial
+  - name: JEPMS Armenia
+    url: https://procesos.ramajudicial.gov.co/jepms/armeniajepms/conectar.asp
+  - name: JEPMS Barranquilla
+    url: https://procesos.ramajudicial.gov.co/jepms/barranquillajepms/conectar.asp
+  - name: JEPMS Bogotá
+    url: https://procesos.ramajudicial.gov.co/jepms/bogotajepms/conectar.asp
+  - name: JEPMS Bucaramanga
+    url: https://procesos.ramajudicial.gov.co/jepms/bucaramangajepms/conectar.asp
+  - name: JEPMS Buga
+    url: https://procesos.ramajudicial.gov.co/jepms/bugajepms/conectar.asp
+  - name: JEPMS Cali
+    url: https://procesos.ramajudicial.gov.co/jepms/calijepms/conectar.asp
+  - name: JEPMS Cartagena
+    url: https://procesos.ramajudicial.gov.co/jepms/cartagenajepms/conectar.asp
+  - name: JEPMS Florencia
+    url: https://procesos.ramajudicial.gov.co/jepms/florenciajepms/conectar.asp
+  - name: JEPMS Ibagué
+    url: https://procesos.ramajudicial.gov.co/jepms/ibaguejepms/conectar.asp
+  - name: JEPMS Manizales
+    url: https://procesos.ramajudicial.gov.co/jepms/manizalesjepms/conectar.asp
+  - name: JEPMS Medellín
+    url: https://procesos.ramajudicial.gov.co/jepms/medellinjepms/conectar.asp
+  - name: JEPMS Montería
+    url: https://procesos.ramajudicial.gov.co/jepms/monteriajepms/conectar.asp
+  - name: JEPMS Neiva
+    url: https://procesos.ramajudicial.gov.co/jepms/neivajepms/conectar.asp
+  - name: JEPMS Palmira
+    url: https://procesos.ramajudicial.gov.co/jepms/palmirajepms/conectar.asp
+  - name: JEPMS Pasto
+    url: https://procesos.ramajudicial.gov.co/jepms/pastojepms/conectar.asp
+  - name: JEPMS Pereira
+    url: https://procesos.ramajudicial.gov.co/jepms/pereirajepms/conectar.asp
+  - name: JEPMS Popayán
+    url: https://procesos.ramajudicial.gov.co/jepms/popayanjepms/conectar.asp
+  - name: JEPMS Quibdó
+    url: https://procesos.ramajudicial.gov.co/jepms/quibdojepms/conectar.asp
+  - name: JEPMS Tunja
+    url: https://procesos.ramajudicial.gov.co/jepms/tunjajepms/conectar.asp
+  - name: JEPMS Villavicencio
+    url: https://procesos.ramajudicial.gov.co/jepms/villavicenciojepms/conectar.asp
+    
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
-  navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+  favicon: https://darchemist.github.io/CustomTheme/logo.png
+  themeUrl: https://darchemist.github.io/CustomTheme/custom_theme.css
+  links:
+    - rel: stylesheet
+      href: https://darchemist.github.io/CustomTheme/custom.css
+  # Uncomment the following line if you don't have a custom domain and add your repo name
+  cname: uptime.tusdatos.co
+  logoUrl: https://darchemist.github.io/CustomTheme/logo.png
+  name: Monitor de fuentes
+  introTitle: "Monitorea las fuentes de consulta en **tiempo real**."
+  introMessage: "En esta página encontrarás información sobre el estado de las fuentes de consulta. El **Uptime promedio** indica la cantidad de tiempo que el sitio web de la fuente ha estado **operacional**. El **tiempo de respuesta promedio** se presenta en milisegundos, y es una medida de la **rapidez** con la que el sitio web de la fuente retorna la información solicitada. Tiempos de respuesta altos se traducen en el posible fallo de algunas consultas."
+  #introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+workflowSchedule:
+  graphs: "*/30 * * * *"
+  responseTime: "*/5 * * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "*/5 * * * *"
+i18n:
+  activeIncidents: Incidentes activos
+  allSystemsOperational: Todas las fuentes son operacionales
+  activeIncidentSummary: Abierto el $DATE con $POSTS posts
+  incidentTitle: Detalles del incidente $NUMBER
+  incidentDetails: Detalles del incidente
+  incidentFixed: Fijo
+  incidentOngoing: En proceso
+  incidentOpenedAt: Abierto el
+  incidentClosedAt: Cerrado el
+  incidentSubscribe: Suscribirse a las actualizaciones
+  incidentCommentSummary: Posteado el $DATE por $AUTHOR
+  incidentBack: ← Regresar a todos los incidentes
+  pastIncidents: Incidentes pasados
+  pastIncidentsResolved: Resuelto en $MINUTES minutes con $POSTS posts
+  liveStatus: Fuentes
+  overallUptime: "Uptime promedio: $UPTIME"
+  overallUptimeTitle: Uptime promedio
+  averageResponseTime: "Tiempo de respuesta promedio: $TIMEms"
+  averageResponseTimeTitle: Respuesta promedio
+  sevelDayResponseTime: 7-day response time
+  responseTimeMs: Tiempo de respuesta (ms)
+  up: Operacional
+  down: No Operacional
+  degraded: Rendimiento degradado
+  ms: ms
+  loading: Cargando
+  navGitHub: GitHub
+  footer: Powered by [Upptime](https://upptime.js.org)
+  rateLimitExceededTitle: Rate limit exceedeed
+  rateLimitExceededIntro: You have exceeded the number of requests you can do in an hour, so you'll have to wait before accessing this website again. Alternately, you can add a GitHub Personal Access Token to continue to use this website.
+  rateLimitExceededWhatDoesErrorMean: What does this error mean?
+  rateLimitExceededErrorMeaning: This website uses the GitHub API to access real-time data about our websites' status. By default, GitHub allows each IP address 60 requests per hour, which you have consumed.
+  rateLimitExceededErrorHowCanFix: How can I fix it?
+  rateLimitExceededErrorFix: You can wait for another hour and your IP address' limit will be restored. Alternately, you can add your GitHub Personal Access Token, which gives you an additional 5,000 requests per hour.
+  rateLimitExceededGeneratePAT: Learn how to generate a Personal Access Token
+  rateLimitExceededHasSet: You have a personal access token set.
+  rateLimitExceededRemoveToken: Remove token
+  rateLimitExceededGitHubPAT: GitHub Personal Access Token
+  rateLimitExceededCopyPastePAT: Copy and paste your token
+  rateLimitExceededSaveToken: Save token
+  errorTitle: An error occurred
+  errorIntro: An error occurred in trying to get the latest status details.
+  errorText: You can try again in a few moments.
+  errorHome: Ir a la página principal
