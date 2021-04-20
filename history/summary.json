@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 269,
-    "timeDay": 269,
-    "timeWeek": 269,
-    "timeMonth": 269,
-    "timeYear": 269,
+    "time": 286,
+    "timeDay": 286,
+    "timeWeek": 286,
+    "timeMonth": 286,
+    "timeYear": 286,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 357,
-    "timeDay": 357,
-    "timeWeek": 357,
-    "timeMonth": 357,
-    "timeYear": 357,
+    "time": 407,
+    "timeDay": 407,
+    "timeWeek": 407,
+    "timeMonth": 407,
+    "timeYear": 407,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 817,
-    "timeDay": 817,
-    "timeWeek": 817,
-    "timeMonth": 817,
-    "timeYear": 817,
+    "time": 860,
+    "timeDay": 860,
+    "timeWeek": 860,
+    "timeMonth": 860,
+    "timeYear": 860,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 305,
-    "timeDay": 305,
-    "timeWeek": 305,
-    "timeMonth": 305,
-    "timeYear": 305,
+    "time": 396,
+    "timeDay": 396,
+    "timeWeek": 396,
+    "timeMonth": 396,
+    "timeYear": 396,
     "dailyMinutesDown": {}
   },
   {
@@ -82,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 916,
-    "timeDay": 916,
-    "timeWeek": 916,
-    "timeMonth": 916,
-    "timeYear": 916,
+    "time": 868,
+    "timeDay": 868,
+    "timeWeek": 868,
+    "timeMonth": 868,
+    "timeYear": 868,
     "dailyMinutesDown": {}
   },
   {
@@ -95,18 +95,18 @@
     "icon": "https://favicons.githubusercontent.com/ruaf.sispro.gov.co",
     "slug": "ruaf",
     "status": "down",
-    "uptime": "0.06%",
-    "uptimeDay": "0.06%",
-    "uptimeWeek": "0.06%",
-    "uptimeMonth": "0.06%",
-    "uptimeYear": "0.06%",
+    "uptime": "0.04%",
+    "uptimeDay": "0.04%",
+    "uptimeWeek": "0.04%",
+    "uptimeMonth": "0.04%",
+    "uptimeYear": "0.04%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-04-20": 158
+      "2021-04-20": 179
     }
   },
   {
@@ -120,11 +120,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 185,
-    "timeDay": 185,
-    "timeWeek": 185,
-    "timeMonth": 185,
-    "timeYear": 185,
+    "time": 228,
+    "timeDay": 228,
+    "timeWeek": 228,
+    "timeMonth": 228,
+    "timeYear": 228,
     "dailyMinutesDown": {}
   },
   {
@@ -138,11 +138,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 599,
-    "timeDay": 599,
-    "timeWeek": 599,
-    "timeMonth": 599,
-    "timeYear": 599,
+    "time": 627,
+    "timeDay": 627,
+    "timeWeek": 627,
+    "timeMonth": 627,
+    "timeYear": 627,
     "dailyMinutesDown": {}
   },
   {
@@ -156,11 +156,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 995,
-    "timeDay": 995,
-    "timeWeek": 995,
-    "timeMonth": 995,
-    "timeYear": 995,
+    "time": 1039,
+    "timeDay": 1039,
+    "timeWeek": 1039,
+    "timeMonth": 1039,
+    "timeYear": 1039,
     "dailyMinutesDown": {}
   },
   {
@@ -174,12 +174,32 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1315,
-    "timeDay": 1315,
-    "timeWeek": 1315,
-    "timeMonth": 1315,
-    "timeYear": 1315,
+    "time": 1418,
+    "timeDay": 1418,
+    "timeWeek": 1418,
+    "timeMonth": 1418,
+    "timeYear": 1418,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Rama Judicial",
+    "url": "https://consultaprocesos.ramajudicial.gov.co/Procesos/NombreRazonSocial",
+    "icon": "https://favicons.githubusercontent.com/consultaprocesos.ramajudicial.gov.co",
+    "slug": "rama-judicial",
+    "status": "up",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 1005,
+    "timeDay": 1005,
+    "timeWeek": 1005,
+    "timeMonth": 1005,
+    "timeYear": 1005,
+    "dailyMinutesDown": {
+      "2021-04-20": 178
+    }
   },
   {
     "name": "JEPMS Armenia",
@@ -192,13 +212,393 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 636,
-    "timeDay": 636,
-    "timeWeek": 636,
-    "timeMonth": 636,
-    "timeYear": 636,
+    "time": 1190,
+    "timeDay": 1190,
+    "timeWeek": 1190,
+    "timeMonth": 1190,
+    "timeYear": 1190,
     "dailyMinutesDown": {
       "2021-04-20": 157
+    }
+  },
+  {
+    "name": "JEPMS Barranquilla",
+    "url": "https://procesos.ramajudicial.gov.co/jepms/barranquillajepms/conectar.asp",
+    "icon": "https://favicons.githubusercontent.com/procesos.ramajudicial.gov.co",
+    "slug": "jepms-barranquilla",
+    "status": "up",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 187,
+    "timeDay": 187,
+    "timeWeek": 187,
+    "timeMonth": 187,
+    "timeYear": 187,
+    "dailyMinutesDown": {
+      "2021-04-20": 177
+    }
+  },
+  {
+    "name": "JEPMS Bogotá",
+    "url": "https://procesos.ramajudicial.gov.co/jepms/bogotajepms/conectar.asp",
+    "icon": "https://favicons.githubusercontent.com/procesos.ramajudicial.gov.co",
+    "slug": "jepms-bogota",
+    "status": "up",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 187,
+    "timeDay": 187,
+    "timeWeek": 187,
+    "timeMonth": 187,
+    "timeYear": 187,
+    "dailyMinutesDown": {
+      "2021-04-20": 176
+    }
+  },
+  {
+    "name": "JEPMS Bucaramanga",
+    "url": "https://procesos.ramajudicial.gov.co/jepms/bucaramangajepms/conectar.asp",
+    "icon": "https://favicons.githubusercontent.com/procesos.ramajudicial.gov.co",
+    "slug": "jepms-bucaramanga",
+    "status": "up",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 185,
+    "timeDay": 185,
+    "timeWeek": 185,
+    "timeMonth": 185,
+    "timeYear": 185,
+    "dailyMinutesDown": {
+      "2021-04-20": 142
+    }
+  },
+  {
+    "name": "JEPMS Buga",
+    "url": "https://procesos.ramajudicial.gov.co/jepms/bugajepms/conectar.asp",
+    "icon": "https://favicons.githubusercontent.com/procesos.ramajudicial.gov.co",
+    "slug": "jepms-buga",
+    "status": "up",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 186,
+    "timeDay": 186,
+    "timeWeek": 186,
+    "timeMonth": 186,
+    "timeYear": 186,
+    "dailyMinutesDown": {
+      "2021-04-20": 176
+    }
+  },
+  {
+    "name": "JEPMS Cali",
+    "url": "https://procesos.ramajudicial.gov.co/jepms/calijepms/conectar.asp",
+    "icon": "https://favicons.githubusercontent.com/procesos.ramajudicial.gov.co",
+    "slug": "jepms-cali",
+    "status": "up",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 187,
+    "timeDay": 187,
+    "timeWeek": 187,
+    "timeMonth": 187,
+    "timeYear": 187,
+    "dailyMinutesDown": {
+      "2021-04-20": 175
+    }
+  },
+  {
+    "name": "JEPMS Cartagena",
+    "url": "https://procesos.ramajudicial.gov.co/jepms/cartagenajepms/conectar.asp",
+    "icon": "https://favicons.githubusercontent.com/procesos.ramajudicial.gov.co",
+    "slug": "jepms-cartagena",
+    "status": "up",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 198,
+    "timeDay": 198,
+    "timeWeek": 198,
+    "timeMonth": 198,
+    "timeYear": 198,
+    "dailyMinutesDown": {
+      "2021-04-20": 175
+    }
+  },
+  {
+    "name": "JEPMS Florencia",
+    "url": "https://procesos.ramajudicial.gov.co/jepms/florenciajepms/conectar.asp",
+    "icon": "https://favicons.githubusercontent.com/procesos.ramajudicial.gov.co",
+    "slug": "jepms-florencia",
+    "status": "up",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 186,
+    "timeDay": 186,
+    "timeWeek": 186,
+    "timeMonth": 186,
+    "timeYear": 186,
+    "dailyMinutesDown": {
+      "2021-04-20": 175
+    }
+  },
+  {
+    "name": "JEPMS Ibagué",
+    "url": "https://procesos.ramajudicial.gov.co/jepms/ibaguejepms/conectar.asp",
+    "icon": "https://favicons.githubusercontent.com/procesos.ramajudicial.gov.co",
+    "slug": "jepms-ibague",
+    "status": "up",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 185,
+    "timeDay": 185,
+    "timeWeek": 185,
+    "timeMonth": 185,
+    "timeYear": 185,
+    "dailyMinutesDown": {
+      "2021-04-20": 175
+    }
+  },
+  {
+    "name": "JEPMS Manizales",
+    "url": "https://procesos.ramajudicial.gov.co/jepms/manizalesjepms/conectar.asp",
+    "icon": "https://favicons.githubusercontent.com/procesos.ramajudicial.gov.co",
+    "slug": "jepms-manizales",
+    "status": "up",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 185,
+    "timeDay": 185,
+    "timeWeek": 185,
+    "timeMonth": 185,
+    "timeYear": 185,
+    "dailyMinutesDown": {
+      "2021-04-20": 174
+    }
+  },
+  {
+    "name": "JEPMS Medellín",
+    "url": "https://procesos.ramajudicial.gov.co/jepms/medellinjepms/conectar.asp",
+    "icon": "https://favicons.githubusercontent.com/procesos.ramajudicial.gov.co",
+    "slug": "jepms-medellin",
+    "status": "up",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 184,
+    "timeDay": 184,
+    "timeWeek": 184,
+    "timeMonth": 184,
+    "timeYear": 184,
+    "dailyMinutesDown": {
+      "2021-04-20": 174
+    }
+  },
+  {
+    "name": "JEPMS Montería",
+    "url": "https://procesos.ramajudicial.gov.co/jepms/monteriajepms/conectar.asp",
+    "icon": "https://favicons.githubusercontent.com/procesos.ramajudicial.gov.co",
+    "slug": "jepms-monteria",
+    "status": "up",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 188,
+    "timeDay": 188,
+    "timeWeek": 188,
+    "timeMonth": 188,
+    "timeYear": 188,
+    "dailyMinutesDown": {
+      "2021-04-20": 173
+    }
+  },
+  {
+    "name": "JEPMS Neiva",
+    "url": "https://procesos.ramajudicial.gov.co/jepms/neivajepms/conectar.asp",
+    "icon": "https://favicons.githubusercontent.com/procesos.ramajudicial.gov.co",
+    "slug": "jepms-neiva",
+    "status": "up",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 185,
+    "timeDay": 185,
+    "timeWeek": 185,
+    "timeMonth": 185,
+    "timeYear": 185,
+    "dailyMinutesDown": {
+      "2021-04-20": 173
+    }
+  },
+  {
+    "name": "JEPMS Palmira",
+    "url": "https://procesos.ramajudicial.gov.co/jepms/palmirajepms/conectar.asp",
+    "icon": "https://favicons.githubusercontent.com/procesos.ramajudicial.gov.co",
+    "slug": "jepms-palmira",
+    "status": "up",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 186,
+    "timeDay": 186,
+    "timeWeek": 186,
+    "timeMonth": 186,
+    "timeYear": 186,
+    "dailyMinutesDown": {
+      "2021-04-20": 173
+    }
+  },
+  {
+    "name": "JEPMS Pasto",
+    "url": "https://procesos.ramajudicial.gov.co/jepms/pastojepms/conectar.asp",
+    "icon": "https://favicons.githubusercontent.com/procesos.ramajudicial.gov.co",
+    "slug": "jepms-pasto",
+    "status": "up",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 187,
+    "timeDay": 187,
+    "timeWeek": 187,
+    "timeMonth": 187,
+    "timeYear": 187,
+    "dailyMinutesDown": {
+      "2021-04-20": 172
+    }
+  },
+  {
+    "name": "JEPMS Pereira",
+    "url": "https://procesos.ramajudicial.gov.co/jepms/pereirajepms/conectar.asp",
+    "icon": "https://favicons.githubusercontent.com/procesos.ramajudicial.gov.co",
+    "slug": "jepms-pereira",
+    "status": "up",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 185,
+    "timeDay": 185,
+    "timeWeek": 185,
+    "timeMonth": 185,
+    "timeYear": 185,
+    "dailyMinutesDown": {
+      "2021-04-20": 172
+    }
+  },
+  {
+    "name": "JEPMS Popayán",
+    "url": "https://procesos.ramajudicial.gov.co/jepms/popayanjepms/conectar.asp",
+    "icon": "https://favicons.githubusercontent.com/procesos.ramajudicial.gov.co",
+    "slug": "jepms-popayan",
+    "status": "up",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 207,
+    "timeDay": 207,
+    "timeWeek": 207,
+    "timeMonth": 207,
+    "timeYear": 207,
+    "dailyMinutesDown": {
+      "2021-04-20": 172
+    }
+  },
+  {
+    "name": "JEPMS Quibdó",
+    "url": "https://procesos.ramajudicial.gov.co/jepms/quibdojepms/conectar.asp",
+    "icon": "https://favicons.githubusercontent.com/procesos.ramajudicial.gov.co",
+    "slug": "jepms-quibdo",
+    "status": "up",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 186,
+    "timeDay": 186,
+    "timeWeek": 186,
+    "timeMonth": 186,
+    "timeYear": 186,
+    "dailyMinutesDown": {
+      "2021-04-20": 171
+    }
+  },
+  {
+    "name": "JEPMS Tunja",
+    "url": "https://procesos.ramajudicial.gov.co/jepms/tunjajepms/conectar.asp",
+    "icon": "https://favicons.githubusercontent.com/procesos.ramajudicial.gov.co",
+    "slug": "jepms-tunja",
+    "status": "up",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 185,
+    "timeDay": 185,
+    "timeWeek": 185,
+    "timeMonth": 185,
+    "timeYear": 185,
+    "dailyMinutesDown": {
+      "2021-04-20": 171
+    }
+  },
+  {
+    "name": "JEPMS Villavicencio",
+    "url": "https://procesos.ramajudicial.gov.co/jepms/villavicenciojepms/conectar.asp",
+    "icon": "https://favicons.githubusercontent.com/procesos.ramajudicial.gov.co",
+    "slug": "jepms-villavicencio",
+    "status": "up",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 184,
+    "timeDay": 184,
+    "timeWeek": 184,
+    "timeMonth": 184,
+    "timeYear": 184,
+    "dailyMinutesDown": {
+      "2021-04-20": 171
     }
   }
 ]
