@@ -24,8 +24,68 @@ sites:
     url: https://apps.migracioncolombia.gov.co/consultarVEN/
   - name: DIAN RUT
     url: https://muisca.dian.gov.co/WebArquitectura/DefLoginOld.faces
+  - name: Rama Judicial
+    url: https://consultaprocesos.ramajudicial.gov.co/Procesos/NombreRazonSocial
+    __dangerous__insecure: true
   - name: JEPMS Armenia
     url: https://procesos.ramajudicial.gov.co/jepms/armeniajepms/conectar.asp
+    __dangerous__insecure: true
+  - name: JEPMS Barranquilla
+    url: https://procesos.ramajudicial.gov.co/jepms/barranquillajepms/conectar.asp
+    __dangerous__insecure: true
+  - name: JEPMS Bogotá
+    url: https://procesos.ramajudicial.gov.co/jepms/bogotajepms/conectar.asp
+    __dangerous__insecure: true
+  - name: JEPMS Bucaramanga
+    url: https://procesos.ramajudicial.gov.co/jepms/bucaramangajepms/conectar.asp
+    __dangerous__insecure: true
+  - name: JEPMS Buga
+    url: https://procesos.ramajudicial.gov.co/jepms/bugajepms/conectar.asp
+    __dangerous__insecure: true
+  - name: JEPMS Cali
+    url: https://procesos.ramajudicial.gov.co/jepms/calijepms/conectar.asp
+    __dangerous__insecure: true
+  - name: JEPMS Cartagena
+    url: https://procesos.ramajudicial.gov.co/jepms/cartagenajepms/conectar.asp
+    __dangerous__insecure: true
+  - name: JEPMS Florencia
+    url: https://procesos.ramajudicial.gov.co/jepms/florenciajepms/conectar.asp
+    __dangerous__insecure: true
+  - name: JEPMS Ibagué
+    url: https://procesos.ramajudicial.gov.co/jepms/ibaguejepms/conectar.asp
+    __dangerous__insecure: true
+  - name: JEPMS Manizales
+    url: https://procesos.ramajudicial.gov.co/jepms/manizalesjepms/conectar.asp
+    __dangerous__insecure: true
+  - name: JEPMS Medellín
+    url: https://procesos.ramajudicial.gov.co/jepms/medellinjepms/conectar.asp
+    __dangerous__insecure: true
+  - name: JEPMS Montería
+    url: https://procesos.ramajudicial.gov.co/jepms/monteriajepms/conectar.asp
+    __dangerous__insecure: true
+  - name: JEPMS Neiva
+    url: https://procesos.ramajudicial.gov.co/jepms/neivajepms/conectar.asp
+    __dangerous__insecure: true
+  - name: JEPMS Palmira
+    url: https://procesos.ramajudicial.gov.co/jepms/palmirajepms/conectar.asp
+    __dangerous__insecure: true
+  - name: JEPMS Pasto
+    url: https://procesos.ramajudicial.gov.co/jepms/pastojepms/conectar.asp
+    __dangerous__insecure: true
+  - name: JEPMS Pereira
+    url: https://procesos.ramajudicial.gov.co/jepms/pereirajepms/conectar.asp
+    __dangerous__insecure: true
+  - name: JEPMS Popayán
+    url: https://procesos.ramajudicial.gov.co/jepms/popayanjepms/conectar.asp
+    __dangerous__insecure: true
+  - name: JEPMS Quibdó
+    url: https://procesos.ramajudicial.gov.co/jepms/quibdojepms/conectar.asp
+    __dangerous__insecure: true
+  - name: JEPMS Tunja
+    url: https://procesos.ramajudicial.gov.co/jepms/tunjajepms/conectar.asp
+    __dangerous__insecure: true
+  - name: JEPMS Villavicencio
+    url: https://procesos.ramajudicial.gov.co/jepms/villavicenciojepms/conectar.asp
     __dangerous__insecure: true
     
 status-website:
