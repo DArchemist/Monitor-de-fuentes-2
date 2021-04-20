@@ -24,6 +24,9 @@ sites:
     url: https://apps.migracioncolombia.gov.co/consultarVEN/
   - name: DIAN RUT
     url: https://muisca.dian.gov.co/WebArquitectura/DefLoginOld.faces
+  - name: JEPMS Armenia
+    url: https://procesos.ramajudicial.gov.co/jepms/armeniajepms/conectar.asp
+    __dangerous__insecure: true
     
 status-website:
   favicon: https://darchemist.github.io/CustomTheme/logo.png
