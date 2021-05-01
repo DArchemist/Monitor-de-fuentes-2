@@ -16,7 +16,6 @@ sites:
     url: https://www.contraloria.gov.co/control-fiscal/responsabilidad-fiscal/certificado-de-antecedentes-fiscales
   - name: RUAF 
     url: https://ruaf.sispro.gov.co/TerminosCondiciones.aspx
-    __dangerous__insecure: true
   - name: RUES
     url: https://www.rues.org.co/
   - name: RUNT
