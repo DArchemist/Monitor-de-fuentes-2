@@ -1,7 +1,7 @@
 url: https://procesos.ramajudicial.gov.co/jepms/armeniajepms/conectar.asp
-status: down
-code: 500
-responseTime: 24625
-lastUpdated: 2021-05-14T18:49:25.134Z
+status: up
+code: 200
+responseTime: 1989
+lastUpdated: 2021-05-14T19:13:39.931Z
 startTime: Tue Apr 20 2021 22:20:25 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
