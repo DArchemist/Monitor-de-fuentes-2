@@ -1,7 +1,7 @@
 url: https://procesos.ramajudicial.gov.co/jepms/popayanjepms/conectar.asp
-status: down
-code: 500
-responseTime: 22049
-lastUpdated: 2021-05-16T03:19:36.671Z
+status: up
+code: 200
+responseTime: 184
+lastUpdated: 2021-05-16T03:58:37.158Z
 startTime: Tue Apr 20 2021 22:41:21 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
