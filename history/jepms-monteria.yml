@@ -1,7 +1,7 @@
 url: https://procesos.ramajudicial.gov.co/jepms/monteriajepms/conectar.asp
-status: down
-code: 500
-responseTime: 21237
-lastUpdated: 2021-06-23T19:39:57.788Z
+status: up
+code: 200
+responseTime: 424
+lastUpdated: 2021-06-23T19:41:35.610Z
 startTime: Tue Apr 20 2021 22:41:13 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
