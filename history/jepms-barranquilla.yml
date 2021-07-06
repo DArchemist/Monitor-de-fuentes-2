@@ -1,7 +1,7 @@
 url: https://procesos.ramajudicial.gov.co/jepms/barranquillajepms/conectar.asp
-status: down
-code: 500
-responseTime: 21401
-lastUpdated: 2021-07-06T12:48:31.081Z
+status: up
+code: 200
+responseTime: 234
+lastUpdated: 2021-07-06T13:08:06.310Z
 startTime: Tue Apr 20 2021 22:40:58 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
