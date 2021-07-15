@@ -1,7 +1,7 @@
 url: https://procesos.ramajudicial.gov.co/jepms/cartagenajepms/conectar.asp
-status: up
-code: 200
-responseTime: 174
-lastUpdated: 2021-07-15T11:51:31.745Z
+status: down
+code: 500
+responseTime: 21137
+lastUpdated: 2021-07-15T11:59:59.059Z
 startTime: Tue Apr 20 2021 22:41:05 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
