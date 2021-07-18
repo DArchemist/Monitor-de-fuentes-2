@@ -1,7 +1,7 @@
 url: https://procesos.ramajudicial.gov.co/jepms/pastojepms/conectar.asp
-status: up
-code: 200
-responseTime: 134
-lastUpdated: 2021-07-18T11:43:48.545Z
+status: down
+code: 500
+responseTime: 21666
+lastUpdated: 2021-07-18T11:48:06.371Z
 startTime: Tue Apr 20 2021 22:41:18 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
