@@ -1,7 +1,7 @@
 url: https://procesos.ramajudicial.gov.co/jepms/villavicenciojepms/conectar.asp
-status: up
-code: 200
-responseTime: 98
-lastUpdated: 2021-07-27T19:18:41.317Z
+status: down
+code: 500
+responseTime: 195
+lastUpdated: 2021-07-27T19:27:03.089Z
 startTime: Tue Apr 20 2021 22:41:26 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
