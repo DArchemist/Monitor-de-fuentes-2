@@ -1,7 +1,7 @@
 url: https://procesos.ramajudicial.gov.co/jepms/bogotajepms/conectar.asp
-status: down
-code: 500
-responseTime: 21151
-lastUpdated: 2021-08-10T19:36:50.745Z
+status: up
+code: 200
+responseTime: 131
+lastUpdated: 2021-08-10T22:44:14.321Z
 startTime: Tue Apr 20 2021 22:41:00 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
