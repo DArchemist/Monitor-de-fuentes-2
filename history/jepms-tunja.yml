@@ -1,7 +1,7 @@
 url: https://procesos.ramajudicial.gov.co/jepms/tunjajepms/conectar.asp
-status: down
-code: 500
-responseTime: 21343
-lastUpdated: 2021-08-17T02:49:49.653Z
+status: up
+code: 200
+responseTime: 170
+lastUpdated: 2021-08-17T02:53:58.348Z
 startTime: Tue Apr 20 2021 22:41:24 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
