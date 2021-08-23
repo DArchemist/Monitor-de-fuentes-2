@@ -1,7 +1,7 @@
 url: https://procesos.ramajudicial.gov.co/jepms/pereirajepms/conectar.asp
-status: down
-code: 503
-responseTime: 1680
-lastUpdated: 2021-08-23T09:01:28.892Z
+status: up
+code: 200
+responseTime: 232
+lastUpdated: 2021-08-23T09:41:32.298Z
 startTime: Tue Apr 20 2021 22:41:19 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
