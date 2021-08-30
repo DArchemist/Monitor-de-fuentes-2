@@ -1,7 +1,7 @@
 url: https://procesos.ramajudicial.gov.co/jepms/florenciajepms/conectar.asp
-status: down
-code: 500
-responseTime: 151
-lastUpdated: 2021-08-30T19:58:59.245Z
+status: up
+code: 200
+responseTime: 154
+lastUpdated: 2021-08-30T20:49:50.270Z
 startTime: Tue Apr 20 2021 22:41:07 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
