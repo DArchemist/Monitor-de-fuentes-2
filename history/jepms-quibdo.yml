@@ -1,7 +1,7 @@
 url: https://procesos.ramajudicial.gov.co/jepms/quibdojepms/conectar.asp
-status: down
-code: 500
+status: up
+code: 200
 responseTime: 133
-lastUpdated: 2021-09-16T15:48:39.576Z
+lastUpdated: 2021-09-16T15:51:19.363Z
 startTime: Tue Apr 20 2021 22:41:23 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
